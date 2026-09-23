@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xn--cc-c72c5160atca.com/sitemap.xml

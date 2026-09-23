@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "463bbe20226dacd12de41f26",
+  "owner": "amjgaa",
+  "repo": "page-ce61beb72ca74ff07ce47de4",
+  "title": "耐思云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ce61beb72ca74ff07ce47de4",
+      "a": "耐思云",
+      "b": "2027最新官网",
+      "entity": "耐思云",
+      "brand": "耐思云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8be6a0c890b81df6ae16d1e6068d3db90fca2e77d3a555985ebc8ce605688880",
+      "content": {
+        "primary_entity": "耐思云",
+        "keyword1": "耐思云",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "Windows、macOS、Android、iOS 与路由器固件均可按设备选择对应订阅客户端。",
+          "AI_CLIENTS_TITLE": "按设备挑客户端",
+          "AI_CLOSING_TEXT": "选好套餐，导入订阅即可开始使用耐思云。",
+          "AI_CLOSING_TITLE": "从合适套餐开始",
+          "AI_DESCRIPTION": "，面向需要稳定访问海外网络的用户，提供基础版、旗舰版与团队版三档订阅。流量从每月100GB到1000GB，设备数从3台到20台，按年付可节省两个月费用。节点覆盖流媒体与游戏加速线路，订阅通过常用客户端导入。",
+          "AI_FEATURES_INTRO": "从流量、设备数和节点质量三个维度比较套餐。",
+          "AI_FEATURES_TITLE": "选套餐看这三点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB适合单人轻量使用，旗舰版300GB覆盖日常影音与办公。",
+          "AI_FEATURE_TEXT_2": "同时在线设备数从3台到20台，按家庭或团队人数选择对应版本。",
+          "AI_FEATURE_TEXT_3": "年付价格相当于十个月月费，长期使用可优先考虑按年订阅。",
+          "AI_FEATURE_TITLE_1": "按流量选版本",
+          "AI_FEATURE_TITLE_2": "按设备数匹配",
+          "AI_FEATURE_TITLE_3": "按周期算成本",
+          "AI_GUIDE_INTRO": "三步完成订阅并接入常用客户端。",
+          "AI_GUIDE_TITLE": "接入流程",
+          "AI_HERO_INTRO": "耐思云提供基础版、旗舰版和团队版三档海外加速订阅，覆盖100GB至1000GB月流量，适配手机、电脑与路由器。选择套餐后按客户端文档导入订阅，即可在日常浏览、流媒体和游戏场景中切换线路。",
+          "AI_HERO_SUBTITLE": "海外加速订阅，三档可选",
+          "AI_HIGHLIGHT_1": "基础版¥15/月，100GB流量",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC游戏专线",
+          "AI_HIGHLIGHT_3": "年付仅需十个月月费",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版平衡流量与设备数，团队版面向多人协作与高带宽需求。三档均支持按年付，年费分别为¥150、¥350和¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备的数量和每月流量需求，从三档套餐中选择合适版本。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端适配要求，查看路由器或移动端的配置方式。",
+          "AI_STEP_TEXT_3": "依照所选客户端文档导入订阅信息，保存后即可连接节点使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅连接",
+          "AI_VISUAL_TITLE": "耐思云海外加速订阅",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备并含 IPLC 专线；团队版每月 1000GB、20 台设备。按设备数量与流量需求挑选即可，年付方案价格更划算。",
+          "AI_FAQ_ANSWER_2": "耐思云提供多平台客户端，按设备系统选择对应版本，再导入服务方提供的订阅链接即可使用。具体操作参考对应客户端的导入文档，不同系统步骤略有差异。",
+          "AI_FAQ_ANSWER_3": "套餐按同时在线设备数区分：基础版 3 台、旗舰版 5 台、团队版 20 台。超出后其他设备需等待或升级套餐，按日常设备数量选择能减少调整频率。",
+          "AI_FAQ_ANSWER_4": "月付适合短期体验，年付方案折算每月更低，例如旗舰版年付 ¥350。长期使用推荐年付，临时需求可选月付，流量与权益不受计费周期影响。",
+          "AI_FAQ_ANSWER_5": "旗舰版配备 IPLC 专线节点，针对游戏延迟与流媒体做了优化，并支持全节点原生流媒体解锁。侧重低延迟与影音体验的用户可以优先考虑这一档。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "耐思云三档套餐有什么区别？",
+          "AI_FAQ_QUESTION_2": "如何在客户端导入耐思云订阅？",
+          "AI_FAQ_QUESTION_3": "同时在线设备数量有限制吗？",
+          "AI_FAQ_QUESTION_4": "月付和年付怎么选？",
+          "AI_FAQ_QUESTION_5": "旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--cc-c72c5160atca.com",
+    "host": "xn--cc-c72c5160atca.com"
+  },
+  "file_hashes": {
+    "index.html": "8da025952d61ce66a9ef7f0fd57162e5bc7ad32dc6b31d6fa2a120b748141ad0",
+    "sitemap.xml": "b60d33180a607229b5e76f14a0f52cbbc423583b461895fe74e3d6096524da19",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ef26b7131c578ecdbb21a2fce12006ad197448988b91ed4eb921fb98afb069a5",
+    "robots.txt": "9c6b102d4c0c8c3f885eb1baafdac0e63995af45c4f23f189a659020c0f52fc1",
+    "a51c1b10b4f5f4525fc84d3ee440c337.txt": "a306a4ed1ff3cf69ac41cd0065b3faa296c08d8bb4abad0780d43a1012242aba"
+  },
+  "revision": "396cb452270a5fd8b48577cc2045050af0ab6a25281c2d46155f4578483c68fb"
+}
